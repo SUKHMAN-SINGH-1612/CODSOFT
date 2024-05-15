@@ -15,7 +15,7 @@ This file is responsible for creating a To-Do List application. The application 
 
 ### password-generator.py
 
-This file is responsible for creating a Password Generator application. The application allows users to specify the length and complexity of the password. The `password_generator` function in this file has the following parameters:
+This file is responsible for creating a Password Generator application. The application allows users to specify the length and complexity of the password. The `password-generator` function in this file has the following parameters:
 
 - `length`: This parameter specifies the desired length of the password.
 - `upper`: This parameter specifies whether the password should include uppercase letters.
@@ -25,7 +25,7 @@ This file is responsible for creating a Password Generator application. The appl
 
 ### rock-paper-scissor-game.py
 
-This file contains the code for a simple Rock, Paper, Scissors game. The game is implemented as a class `RockPaperScissors` with the following methods:
+This file contains the code for a simple Rock, Paper, Scissors game. The game is implemented as a class `Rock-Paper-Scissor-Game` with the following methods:
 
 - `get_computer_choice()`: This method randomly selects the computer's choice from 'rock', 'paper', or 'scissors'.
 - `determine_winner(user_choice, computer_choice)`: This method determines the winner of the game based on the user's choice and the computer's choice.
