@@ -1,6 +1,6 @@
 # Project Title
 
-A brief description of what this project does and who it's for.
+This repository contains all the projects/task for the virtual python programming internship at CODSOFT
 
 ## File Descriptions
 
